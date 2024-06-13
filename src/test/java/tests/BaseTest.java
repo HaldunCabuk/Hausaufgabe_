@@ -1,2 +1,4 @@
-package tests;public class BaseTest {
+package tests;
+
+public class BaseTest {
 }

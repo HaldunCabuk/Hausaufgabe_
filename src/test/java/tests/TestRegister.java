@@ -1,2 +1,4 @@
-package tests;public class TestRegister {
+package tests;
+
+public class TestRegister {
 }

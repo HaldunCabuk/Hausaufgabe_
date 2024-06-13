@@ -1,2 +1,4 @@
-package tests;public class Locators {
+package tests;
+
+public class Locators {
 }

@@ -4,34 +4,168 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3ebdd1c9-c911-4b34-b94a-ebbd3a833f3a" name="Changes" comment="" />
+    <list default="true" id="3ebdd1c9-c911-4b34-b94a-ebbd3a833f3a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/httpRequest/ByteSample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/httpRequest/RequestSample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/ApiTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dbnavigator.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/tests/BaseTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/BaseTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/tests/Locators.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/Locators.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/tests/TestRegister.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/TestRegister.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="MavenImportPreferences">
-    <option name="importingSettings">
-      <MavenImportingSettings>
-        <option name="workspaceImportEnabled" value="true" />
-      </MavenImportingSettings>
-    </option>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 3
+}]]></component>
   <component name="ProjectId" id="2YQsukT2mMRcZtF8GlkwZIAdGWD" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.ByteSample.executor": "Run",
+    "JUnit.RequestSample.test1.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "TestNG.ApiTests.apiTest.executor": "Run",
+    "TestNG.ApiTests.getPrettyPreek.executor": "Run",
+    "TestNG.ApiTests.jsonPath_ObjectToMap.executor": "Run",
+    "TestNG.ApiTests.jsonPath_ObjectToMaps.executor": "Run",
+    "TestNG.ApiTests.jsonpath_ObjectsToMaps.executor": "Run",
+    "TestNG.ApiTests.test (1).executor": "Debug",
+    "TestNG.ApiTests.test.executor": "Run",
+    "kotlin-language-version-configured": "true",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
   }
 }]]></component>
+  <component name="RunManager" selected="TestNG.ApiTests.test">
+    <configuration name="ApiTests.getPrettyPreek" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Hausaufgabe_" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests" />
+      <option name="MAIN_CLASS_NAME" value="tests.ApiTests" />
+      <option name="METHOD_NAME" value="getPrettyPreek" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ApiTests.jsonPath_ObjectToMap" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Hausaufgabe_" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests" />
+      <option name="MAIN_CLASS_NAME" value="tests.ApiTests" />
+      <option name="METHOD_NAME" value="jsonPath_ObjectToMap" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ApiTests.jsonPath_ObjectToMaps" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Hausaufgabe_" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests" />
+      <option name="MAIN_CLASS_NAME" value="tests.ApiTests" />
+      <option name="METHOD_NAME" value="jsonPath_ObjectToMaps" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ApiTests.jsonpath_ObjectsToMaps" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Hausaufgabe_" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests" />
+      <option name="MAIN_CLASS_NAME" value="tests.ApiTests" />
+      <option name="METHOD_NAME" value="jsonpath_ObjectsToMaps" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ApiTests.test" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Hausaufgabe_" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests" />
+      <option name="MAIN_CLASS_NAME" value="tests.ApiTests" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.ApiTests.test" />
+        <item itemvalue="TestNG.ApiTests.getPrettyPreek" />
+        <item itemvalue="TestNG.ApiTests.jsonPath_ObjectToMap" />
+        <item itemvalue="TestNG.ApiTests.jsonpath_ObjectsToMaps" />
+        <item itemvalue="TestNG.ApiTests.jsonPath_ObjectToMaps" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
