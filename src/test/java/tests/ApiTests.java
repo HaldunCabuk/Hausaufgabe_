@@ -23,8 +23,10 @@ public class ApiTests {
 
         response = given()
                 .contentType(ContentType.JSON)
-                .get("https://reqres.in/api/users")
-                .prettyPeek();
+                .get("https://reqres.in/api/users");
+                //.prettyPeek();
+        List<String> emails = response.jsonPath().getList("data.email");
+        System.out.println(emails);
     }
 
     @Test
