@@ -28,16 +28,24 @@ public class ApiTests {
     }
 
     @Test
+    public void test(){
+        response = given()
+                .contentType(ContentType.JSON)
+                .get("https://reqres.in/api/users");
+
+
+    }
+
+    @Test
     public void jsonPath_AllBodyToMap(){
         response = given()
                 .contentType(ContentType.JSON)
                 .get("https://reqres.in/api/users");
 
         response.then().body("page",equalTo(1));
-        Map<String,?> map = response.jsonPath().get("");
-        map.forEach((k,v) -> System.out.println(k +" : " + v));
+       Map<String,?>  map = response.jsonPath().get("");
 
-
+            map.forEach((k,v) -> System.out.println(k +" : " + v));
 
     }
 
