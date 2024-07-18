@@ -56,7 +56,7 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
 }</component>
-  <component name="RunManager" selected="TestNG.ApiTests.getPrettyPreek">
+  <component name="RunManager" selected="TestNG.ApiTests.jsonPath_ObjectToMap">
     <configuration name="ApiTests.getPrettyPreek" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Hausaufgabe_" />
       <extension name="coverage">
@@ -149,10 +149,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.ApiTests.jsonPath_ObjectToMap" />
+        <item itemvalue="TestNG.ApiTests.jsonPath_AllBodyToMap" />
         <item itemvalue="TestNG.ApiTests.getPrettyPreek" />
         <item itemvalue="TestNG.ApiTests.test" />
-        <item itemvalue="TestNG.ApiTests.jsonPath_AllBodyToMap" />
-        <item itemvalue="TestNG.ApiTests.jsonPath_ObjectToMap" />
         <item itemvalue="TestNG.ApiTests.jsonpath_ObjectsToMaps" />
       </list>
     </recent_temporary>

@@ -63,7 +63,7 @@ public class ApiTests {
 
         System.out.println("--------------------------------------------------------------------");
 
-        String email = response.jsonPath().get("data.find{it.id==3}.avatar");
+        String email = response.jsonPath().get("data.find{it.id==2}.avatar");
         System.out.println("email = " + email);
 
         System.out.println("***************************************************");
