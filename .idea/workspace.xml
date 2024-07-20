@@ -56,7 +56,7 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
 }</component>
-  <component name="RunManager" selected="TestNG.ApiTests.jsonPath_ObjectToMap">
+  <component name="RunManager" selected="TestNG.ApiTests.jsonPath_ObjectsToMaps">
     <configuration name="ApiTests.getPrettyPreek" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Hausaufgabe_" />
       <extension name="coverage">
@@ -111,7 +111,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ApiTests.jsonpath_ObjectsToMaps" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="ApiTests.jsonPath_ObjectsToMaps" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Hausaufgabe_" />
       <extension name="coverage">
         <pattern>
@@ -121,7 +121,7 @@
       </extension>
       <option name="PACKAGE_NAME" value="tests" />
       <option name="MAIN_CLASS_NAME" value="tests.ApiTests" />
-      <option name="METHOD_NAME" value="jsonpath_ObjectsToMaps" />
+      <option name="METHOD_NAME" value="jsonPath_ObjectsToMaps" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -149,11 +149,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.ApiTests.jsonPath_ObjectsToMaps" />
         <item itemvalue="TestNG.ApiTests.jsonPath_ObjectToMap" />
         <item itemvalue="TestNG.ApiTests.jsonPath_AllBodyToMap" />
         <item itemvalue="TestNG.ApiTests.getPrettyPreek" />
         <item itemvalue="TestNG.ApiTests.test" />
-        <item itemvalue="TestNG.ApiTests.jsonpath_ObjectsToMaps" />
       </list>
     </recent_temporary>
   </component>
