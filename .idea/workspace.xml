@@ -255,7 +255,15 @@
       <option name="project" value="LOCAL" />
       <updated>1721623123169</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="ApiTest_MapObjects">
+      <option name="closed" value="true" />
+      <created>1721809086083</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1721809086083</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
