@@ -34,30 +34,30 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.ByteSample.executor": "Run",
-    "JUnit.RequestSample.test1.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "TestNG.ApiTests.apiTest.executor": "Run",
-    "TestNG.ApiTests.getPrettyPreek.executor": "Run",
-    "TestNG.ApiTests.jsonPath_AllBodyToMap.executor": "Run",
-    "TestNG.ApiTests.jsonPath_ObjectToMap.executor": "Run",
-    "TestNG.ApiTests.jsonPath_ObjectToMaps.executor": "Run",
-    "TestNG.ApiTests.jsonPath_ObjectsToMaps.executor": "Run",
-    "TestNG.ApiTests.jsonpath_ObjectsToMaps.executor": "Run",
-    "TestNG.ApiTests.test (1).executor": "Debug",
-    "TestNG.ApiTests.test.executor": "Run",
-    "ignore.virus.scanning.warn.message": "true",
-    "kotlin-language-version-configured": "true",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.ByteSample.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.RequestSample.test1.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;TestNG.ApiTests.apiTest.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.ApiTests.getPrettyPreek.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.ApiTests.jsonPath_AllBodyToMap.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.ApiTests.jsonPath_ObjectToMap.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.ApiTests.jsonPath_ObjectToMaps.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.ApiTests.jsonPath_ObjectsToMaps.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.ApiTests.jsonpath_ObjectsToMaps.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.ApiTests.test (1).executor&quot;: &quot;Debug&quot;,
+    &quot;TestNG.ApiTests.test.executor&quot;: &quot;Run&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="TestNG.ApiTests.jsonPath_ObjectsToMaps">
     <configuration name="ApiTests.getPrettyPreek" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Hausaufgabe_" />
@@ -312,7 +312,15 @@
       <option name="project" value="LOCAL" />
       <updated>1722338490125</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="ApiTest_MapObjects">
+      <option name="closed" value="true" />
+      <created>1722500630167</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1722500630167</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
